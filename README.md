@@ -21,7 +21,7 @@
 
 ## Решение:
 
-1. *С использованием [docker-compose.yaml](docker-compose.yml) поднимаю инстанс MySQL*
+1. *С использованием [docker-compose.yaml](docker-compose.yaml) поднимаю инстанс MySQL*
 
 2. *Восстанавливаюсь из бэкапа:*
 ```bash
